@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://vaibhav18matere.github.io/csb-ionfv/static/css/main.92b20f2a.chunk.css",
+    "main.js": "https://vaibhav18matere.github.io/csb-ionfv/static/js/main.6708e46d.chunk.js",
+    "main.js.map": "https://vaibhav18matere.github.io/csb-ionfv/static/js/main.6708e46d.chunk.js.map",
+    "runtime-main.js": "https://vaibhav18matere.github.io/csb-ionfv/static/js/runtime-main.cfb4648b.js",
+    "runtime-main.js.map": "https://vaibhav18matere.github.io/csb-ionfv/static/js/runtime-main.cfb4648b.js.map",
+    "static/js/2.d0a5e18a.chunk.js": "https://vaibhav18matere.github.io/csb-ionfv/static/js/2.d0a5e18a.chunk.js",
+    "static/js/2.d0a5e18a.chunk.js.map": "https://vaibhav18matere.github.io/csb-ionfv/static/js/2.d0a5e18a.chunk.js.map",
+    "index.html": "https://vaibhav18matere.github.io/csb-ionfv/index.html",
+    "precache-manifest.35657dc83bc50adf74221926c02206c3.js": "https://vaibhav18matere.github.io/csb-ionfv/precache-manifest.35657dc83bc50adf74221926c02206c3.js",
+    "service-worker.js": "https://vaibhav18matere.github.io/csb-ionfv/service-worker.js",
+    "static/css/main.92b20f2a.chunk.css.map": "https://vaibhav18matere.github.io/csb-ionfv/static/css/main.92b20f2a.chunk.css.map",
+    "static/js/2.d0a5e18a.chunk.js.LICENSE.txt": "https://vaibhav18matere.github.io/csb-ionfv/static/js/2.d0a5e18a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfb4648b.js",
+    "static/js/2.d0a5e18a.chunk.js",
+    "static/css/main.92b20f2a.chunk.css",
+    "static/js/main.6708e46d.chunk.js"
+  ]
+}
