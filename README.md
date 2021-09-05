@@ -1,4 +1,4 @@
-# csb-ionfv
+# Emoji enterpreter app
 This app tells you the meaning of smiley emojis we frequently use
 
 check the app here :
