@@ -1,37 +1,35 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+
+body {
+  background-color: #47dddd;
 }
 h1 {
-  color: #0099ff;
+  color: blue;
+}
+input {
+  width: 50%;
+  height: 15vh;
+  border: 1px solid black;
+  border-radius: 1rem;
+  margin: 1.2rem;
 }
 
-#state-btn {
-  cursor: pointer;
+.title {
   border-radius: 0.5rem;
-  background-color: #0099ff;
-  font-size: 1rem;
-  margin: 0.2rem;
+  font-size: 40px;
 }
 
-.state-list {
-  text-align: left;
-  width: 85%;
-  list-style-type: none;
-  list-style: none;
-  border-radius: 1.2rem;
-  padding: 1rem;
-  margin: 1.5rem;
-  background-color: #0099ff;
+.face-emojis {
+  font-size: 3rem;
+  padding: 0.5rem 0.5rem;
+  margin: 0.25rem;
+  cursor: pointer;
 }
-#travel-state-place {
-  font-size: larger;
-  margin-bottom: 0.5rem;
-}
-
-#description {
-  font-size: smaller;
-}
-#rating {
-  font-size: smaller;
+h2 {
+  color: blue;
 }
